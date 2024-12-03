@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ojaswini Nandwana from India
 - 👀 I’m interested in Backend and Microservices Architectures.
-- 🌱 I’m currently learning System Design and Azure CI/CD.
+- 🌱 I’m currently learning System Design.
 - 💞️ I’m looking to collaborate on Projects & Hackathons.
 - 📫 How to reach me nandwanaojaswini@gmail.com
 - 😄 Pronouns: She/her
